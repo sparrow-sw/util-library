@@ -1,0 +1,16 @@
+{
+  "name": "util-library",
+  "version": "1.0.0",
+  "description": "utilities for developing js applications",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Kauffman",
+  "license": "MIT",
+  "dependencies": {
+    "pino": "^8.8.0",
+    "pino-pretty": "^9.1.1"
+  }
+}
