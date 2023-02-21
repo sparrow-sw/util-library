@@ -1,6 +1,6 @@
 {
   "name": "util-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utilities for developing node js applications",
   "type": "module",
   "main": "index.js",
