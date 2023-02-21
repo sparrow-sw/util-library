@@ -1,7 +1,7 @@
 const {
-  ENVIRONMENT = 'local'
+    ENVIRONMENT = 'local'
 } = process.env;
 
 export {
-  ENVIRONMENT
-}
+    ENVIRONMENT
+};
